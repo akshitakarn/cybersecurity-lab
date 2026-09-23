@@ -1,0 +1,32 @@
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             10.0.2.15/24 fd17:625c:f037:2:c771:4b4c:3b1b:e482/64 fd17:625c:f037:2:a00:27ff:febb:955d/64 fe80::a00:27ff:febb:955d/64 
+default via 10.0.2.2 dev eth0 proto dhcp src 10.0.2.15 metric 100 
+nameserver 10.200.47.213
+nameserver fd17:625c:f037:2::3
+Netid State Recv-Q Send-Q Local Address:Port Peer Address:Port
+==================================================
+SYSTEM INFORMATION & NETWORK ASSET SCANNER
+==================================================
+
+[ SYSTEM INFORMATION ]
+Hostname: kali
+Operating System: Linux
+OS Release: 7.1.5+kali-amd64
+Kernel: #1 SMP PREEMPT_DYNAMIC Kali 7.1.5-1kali1 (2026-07-29)
+Architecture: x86_64
+Python Version: 3.14.7
+
+[ NETWORK INFORMATION ]
+IP Address: 127.0.1.1
+
+[ NETWORK INTERFACES ]
+
+[ DEFAULT GATEWAY ]
+
+[ DNS CONFIGURATION ]
+
+[ LISTENING PORTS ]
+
+==================================================
+SCAN COMPLETED
+==================================================
